@@ -1,5 +1,5 @@
 <html>
-<body style="background-color:rgb(173, 52, 52);">
+<body style="background-color:lightseagreen;">
 <h1 style="color:red;background-color:rgb(0, 225, 255)"><center>Hello Everyone</center></h1>
 <h1 style="color:blue"><center>Welcome to DevOps and Automation session</center></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
