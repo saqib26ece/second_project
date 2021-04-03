@@ -3,7 +3,7 @@
 <h1 style="color:red;background-color:rgb(0, 225, 255)"><center>Hello Everyone</center></h1>
 <h1 style="color:blue"><center>Welcome to DevOps and Automation session</center></h1>
 <br><br><br><br><br><br><br>
-<a href=http://3.139.62.238:8080/job/first_demo/build?token=saqib>trigger first_demo</a>
+<a href=http://3.20.234.114:8080/job/first_demo/build?token=saqib>trigger first_demo</a>
 <br><br><br><br><br><br><br>
 <h3><center><i style="color:green" >Presented by</i></center></h3>
 <h3><b style="color:green" ><center>DevOps and Automation Track</center></b></h3>
